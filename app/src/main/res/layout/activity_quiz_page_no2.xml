@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/bgg1"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".QuizPageNo2">
+    <ProgressBar
+        android:id="@+id/progressani"
+        android:layout_width="match_parent"
+        style="?android:progressBarStyleHorizontal"
+        android:progress="50"
+        android:progressDrawable="@drawable/loadpage"
+        android:layout_height="10dp"/>
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/barquiz2"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        app:srcCompat="@drawable/question_quiz02" />
+
+    <Button
+        android:id="@+id/buttonChoiceNo1c2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/stylechoice"
+        android:text="ก.ไม้ตะเคียนทอง" />
+
+    <Button
+        android:id="@+id/buttonChoiceNo2c2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonChoiceNo1c2"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+
+        android:background="@drawable/stylechoice"
+        android:text="ข.ไม้มะค่า" />
+
+    <Button
+        android:id="@+id/buttonChoiceNo3c2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonChoiceNo2c2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/stylechoice"
+        android:text="ค.ไม้สัก" />
+
+    <Button
+        android:id="@+id/buttonChoiceNo4c2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonChoiceNo3c2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+
+        android:background="@drawable/stylechoice"
+        android:text="ง.ไม้ต้นมะพร้าว" />
+
+    <ImageView
+        android:id="@+id/imageViewWong3"
+        android:layout_width="53dp"
+        android:layout_height="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="303dp"
+        android:layout_marginEnd="45dp"
+        android:layout_toEndOf="@+id/buttonChoiceNo1c2"
+        android:visibility="invisible"
+
+        app:srcCompat="@mipmap/wrong" />
+
+    <ImageView
+        android:id="@+id/imageViewWong1"
+        android:layout_width="53dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="5dp"
+
+        android:layout_marginTop="370dp"
+
+        android:layout_marginEnd="45dp"
+        android:layout_toEndOf="@+id/buttonChoiceNo2c2"
+        android:visibility="invisible"
+        app:srcCompat="@mipmap/wrong" />
+
+    <ImageView
+        android:id="@+id/imageViewWong2"
+        android:layout_width="53dp"
+        android:layout_height="46dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="438dp"
+        android:layout_marginEnd="42dp"
+        android:layout_toEndOf="@+id/buttonChoiceNo3c2"
+        android:visibility="invisible"
+        app:srcCompat="@mipmap/wrong" />
+
+    <ImageView
+
+        android:id="@+id/imageViewAcc"
+        android:layout_width="53dp"
+        android:layout_height="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="507dp"
+        android:layout_marginEnd="40dp"
+        android:layout_toEndOf="@+id/buttonChoiceNo4c2"
+
+        android:visibility="invisible"
+        app:srcCompat="@mipmap/accept" />
+
+
+</RelativeLayout>

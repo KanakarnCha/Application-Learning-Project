@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/bt_style_p1.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/loadpage.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/photo.xml" value="0.3527777777777778" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/style.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/style_green.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/style_red.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/style_signabout.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/stylechoice.xml" value="0.328125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/styletext_showpoint.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/drawable/syledialog.xml" value="0.318859649122807" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/font/font.xml" value="0.3567708333333333" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_about_quiz.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_credit_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_mediumwood_wood_page2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_page2_wood.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_page_show_carefull.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no1.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no10.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no2.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no3.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no4.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no5.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no6.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no7.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no8.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_quiz_page_no9.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_show_point_page.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_showpage_wood.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_softwood_wood_page3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_solid_wood_page1.xml" value="0.3625" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_solid_wood_page2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_solid_wood_page3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/activity_splash.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/card_model_wood.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/customdialog.xml" value="0.25769230769230766" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/layout_dialog.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/page_show_carefull.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/layout/showpagewood.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/PC-Foam/Desktop/ProjectWood/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3509259259259259" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

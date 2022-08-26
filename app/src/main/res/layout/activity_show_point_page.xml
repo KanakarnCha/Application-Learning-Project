@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/wallscore"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Show_Point_page">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pagepoint"
+        >
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="160dp"
+            android:background="@drawable/allpoint" />
+
+        <TextView
+            android:id="@+id/textViewPoint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="130dp"
+            android:text="00"
+            android:textColor="@color/black"
+            android:textSize="100dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/E1"
+            android:layout_width="155dp"
+            android:layout_height="120dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="380dp"
+
+
+            android:background="@drawable/icon_con" />
+
+        <TextView
+            android:id="@+id/textViewCon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/E1"
+            android:layout_alignTop="@+id/E1"
+            android:layout_alignEnd="@+id/E1"
+            android:layout_alignBottom="@+id/E1"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+
+            android:text="00"
+            android:textColor="@color/black"
+            android:textSize="45dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/a1"
+            android:layout_width="155dp"
+            android:layout_height="120dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="380dp"
+            android:layout_toEndOf="@+id/E1"
+            android:background="@drawable/icon_incon" />
+
+        <TextView
+            android:id="@+id/textViewInCon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/a1"
+            android:layout_alignTop="@+id/a1"
+            android:layout_alignEnd="@+id/a1"
+            android:layout_alignBottom="@+id/a1"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="00"
+            android:textColor="@color/black"
+            android:textSize="45dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/styletext_showpoint"
+            android:text=" คะแนนที่ได้ "
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="500dp"
+            android:text="Thank You"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/imageButtonInhome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="40dp"
+            android:background="@null"
+
+            app:srcCompat="@mipmap/bthomepoint"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

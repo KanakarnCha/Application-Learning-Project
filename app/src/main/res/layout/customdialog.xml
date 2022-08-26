@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:background="#866a5d">
+
+
+        <TextView
+            android:id="@+id/textcrea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="ขอบคุณข้อมูลจาก"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/buttonclick1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textcrea"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@null"
+            android:autoLink="all"
+            android:selectAllOnFocus="false"
+            android:linksClickable="false"
+            android:textColorLink="#c3bab3"
+
+            android:text="https://www.onestockhome.com/th/homemap_contents/50551302/wood-for-construction"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="87dp" />
+
+        <Button
+            android:id="@+id/buttonclick2"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonclick1"
+            android:background="@null"
+            android:autoLink="all"
+            android:textColorLink="#c3bab3"
+            android:layout_centerHorizontal="true"
+            android:text="https://www.baanlaesuan.com" />
+        <Button
+            android:id="@+id/buttonclick3"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonclick2"
+            android:background="@null"
+            android:textColorLink="#c3bab3"
+            android:autoLink="all"
+            android:layout_centerHorizontal="true"
+            android:text="http://designtechnology.ipst.ac.th" />
+
+        <Button
+            android:id="@+id/buttonclick4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonclick3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:autoLink="all"
+            android:background="@null"
+            android:text="http://www.livingdd.com/lumber-knowledge-for-smart-selection/"
+            android:textColorLink="#c3bab3" />
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/buttonclick5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/buttonclick4"
+            android:background="@null"
+            android:textColorLink="#c3bab3"
+            android:autoLink="all"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:text="https://craftnroll.net/craft-101/wood-101" />
+
+
+    </RelativeLayout>
